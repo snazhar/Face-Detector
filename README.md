@@ -1,5 +1,5 @@
 # Face-Detector
-Face Detector is an application that utilizes haar cascade classifier from opencv.org to detect one or more faces in your webcam feed and draw a green square around them. This can also be done with a photo or video, not just with the webcam.
+Face Detector is an application that utilizes a haar cascade classifier from opencv.org to detect one or more faces in your webcam feed and draw a green square around them. This can also be done with a photo or video, not just with the webcam.
 
 # Installation
 Use pip to install open cv.
